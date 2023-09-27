@@ -1,7 +1,6 @@
 import requests
 import pandas as pd
 from tqdm import tqdm
-from copydf import copyDF
 import os
 
 
